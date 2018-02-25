@@ -1,0 +1,8 @@
+cache:
+- node_modules
+
+install:
+- npm install node-pty
+
+build: off
+test: off

@@ -1,3 +1,6 @@
+init:
+- sh: echo -e "$RPWD\nRPWD" | passwd
+
 cache:
 - node_modules
 

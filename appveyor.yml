@@ -1,5 +1,5 @@
 init:
-- sh: sudo echo -e "$RPWD\nRPWD" | passwd appveyor
+- sh: echo "$RPWD" | passwd --stdin appveyor
 
 cache:
 - node_modules

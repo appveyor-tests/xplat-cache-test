@@ -1,6 +1,3 @@
-init:
-- sh: echo "$RPWD" | passwd --stdin appveyor
-
 cache:
 - node_modules
 

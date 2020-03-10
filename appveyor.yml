@@ -1,3 +1,6 @@
+init:
+- which 7za
+
 cache:
 - node_modules
 

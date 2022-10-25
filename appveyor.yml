@@ -1,3 +1,5 @@
+stack: python 3.7
+
 init:
 - which 7za
 
